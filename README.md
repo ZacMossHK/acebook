@@ -21,7 +21,7 @@ Acebook uses the following tech stack:
 - [Express](https://expressjs.com/) web framework for Node.js.
 - [Nodemon](https://nodemon.io/) to reload the server automatically.
 - [Handlebars](https://handlebarsjs.com/) to render view templates.
-- MongoDB database system.
+- [MongoDB](https://www.mongodb.com/) database system.
 - [Mongoose](https://mongoosejs.com) to model objects in MongoDB.
 - [ESLint](https://eslint.org) for linting.
 - [Jest](https://jestjs.io/) for testing.
