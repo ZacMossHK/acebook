@@ -73,7 +73,7 @@ As our project grew in scale, our group's codebase and routes became more compli
 ![AcebookExcalidrawCodebaseFlow](https://user-images.githubusercontent.com/63399205/199772237-5a6cecd2-5dbd-4f5e-88ba-66cb4f53e36a.png)
 
 We also used Excalidraw to design the page layout.
-![AcebookLayout](https://user-images.githubusercontent.com/63399205/199794471-8221b06e-8bd5-47f3-b940-f4784f0b895c.png)
+![AcebookLayout](https://user-images.githubusercontent.com/63399205/199797646-06d59d76-6564-4cf4-bd65-21ea68f2739d.png)
 
 Our group would have regular two-day sprints, generating tickets at the start of each sprint that we would track in Trello. Group members be assigned tickets to complete and could then choose remaining tickets from the To Do list to work on. Completed tickets would be moved to In Review list when a pull request was made for that ticket's branch to the group's Github repo. After another pair had reviewed and merged that branch the ticket would be moved to the Done list.
 <img width="1440" src="https://user-images.githubusercontent.com/63399205/199795516-225da5b9-32cd-4c07-9b3f-0b4514157f3c.png">
